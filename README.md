@@ -13,7 +13,7 @@ Repositório de atividades da disciplina de programação 3 usando a linguagem j
   > compartilharão uma única instância, quando o primeiro acesso for concluído, a instância da conexão é passada para o  
   > próximo.
   >
-  > Exemplo prático em java: [Singleton](https://github.com/YagoMuniz/Facisa-P3/blob/master/singleton/Singleton.java)
+  > Exemplo prático em java: [Singleton](https://github.com/YagoMuniz/Facisa-p3/blob/master/Part%20I/SingletonProject/src/Singleton.java)
 
 ### Package Visibility
   > Projeto que visa simular o acesso à métodos e classes com diferente modificadores.
