@@ -1,5 +1,5 @@
 # UNIFACISA PROGRAMAÇÃO III
-Repositório de atividades da disciplina de programação 3 usando a linguagem java da UniFacisa.
+Repositório de atividades da disciplina de programação 3 usando a linguagem java na UniFacisa.
 
 ## Contents
 - [Part I](#facisa-p3)
