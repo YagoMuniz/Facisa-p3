@@ -1,4 +1,4 @@
-
+package Pilha;
 
 /**
  * Classe que representa uma pilha genérica de elementos.

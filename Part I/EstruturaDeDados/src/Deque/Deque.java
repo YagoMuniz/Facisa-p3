@@ -1,3 +1,5 @@
+package Deque;
+
 /**
  * Classe que representa a estrutura de dados deque,
  *  usando classe genérica.
